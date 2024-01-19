@@ -1,3 +1,3 @@
 ### Your father found your report card and disown you.
 
-[Continue](father-disowns.md)
+[Continue](../life-from-both-options/father-disowns.md)
