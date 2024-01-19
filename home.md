@@ -1,6 +1,6 @@
 # Life Simulator Game
-You are born into a rich family. You can decide whether you want to go to school or not.
+You are born into a rich family. Your father has high expectations on you and want you to be educated, so you can continue your family's legacy. However, you do not want waste time in school but to enjoy your life. 
 
 [School is important](school/go-to-school.md)
 
-[Play play play every day](no-school/no-school.md)
+[Enjoy life is important](no-school/no-school.md)
