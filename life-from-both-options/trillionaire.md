@@ -1,3 +1,4 @@
-### You become the first trillionaire and you have too much money to spend so you decide to give some money away to random people.
+# Trillionaire
+Under your management, your company thrives. You become the first trillionaire and decide to give some money away to charity because you have so much money. 
 
 [Try other lives](../home.md)
