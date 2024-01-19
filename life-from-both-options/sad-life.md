@@ -1,5 +1,5 @@
-### No family no Wife no friend.
+### You went broke
 
-You wish you listened to your dad so you live the rest of your life regreting your decisions and you are really lonely, broke and have many mental problems.
+You regret the decisions you made that led you to at the situation you have right now and you live a really sad life.
 
 [Start over](../home.md)
