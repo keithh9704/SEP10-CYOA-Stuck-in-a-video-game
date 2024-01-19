@@ -3,5 +3,6 @@ Your dad praises you because he found out that you got all A+ on your report car
 
 [Continue your family's legacy of being rich](inherit-company.md)
 
+
 [Just live a ordinary life](../life-from-both-options/ordinary-life.md)
 
