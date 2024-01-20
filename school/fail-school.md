@@ -1,5 +1,4 @@
 # You got an F on your report card
-
-Your father found your report card and gets really mad at you so he hits you really hard with a ruler and tells you get out of his house.
+Your father found your report card and got mad at you, so he hit you hard with a ruler and told you to get out of his house.
 
 [Oh my!](../life-from-both-options/father-disowns.md)
