@@ -1,5 +1,4 @@
-### No family no Wife no friend.
-
-You wish you listened to your dad so you live the rest of your life regreting your decisions and you are really lonely, broke and have many mental problems.
+### No family No money
+You are now in your mid 40s. You have no money and no education. Sometimes you wish your life can start over so you are still a rich guy. But too sad, people have to pay for their decisions.
 
 [Start over](../home.md)
