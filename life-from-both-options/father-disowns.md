@@ -2,4 +2,8 @@
 
 You are homeless and not in a family anymore so you would try to do something about being homeless.
 
-[Continue](sad-life.md)
+[Find a new family](../school/new-family)
+
+[Beg your father for another change](../school/another-chance)
+
+
