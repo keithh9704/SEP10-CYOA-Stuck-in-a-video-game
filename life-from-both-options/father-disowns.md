@@ -4,6 +4,6 @@ You are homeless and not in a family anymore so you would try to do something ab
 
 [Find a new family](../school/new-family.md)
 
-[Beg your father that you will change](../school/another-chance.md)
+[Beg your father for another chance](../school/another-chance.md)
 
 
