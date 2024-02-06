@@ -5,5 +5,6 @@ Your dad praises you because he learned you got all A+ on your report card. You 
 ![image](https://www.psychologs.com/wp-content/uploads/2023/08/The-Psychology-of-Rich-People.jpg)
 
 [Just live a ordinary life](../life-from-both-options/ordinary-life.md)
+
 ![image](https://github.com/keithh9704/sep10-cyoa-stuck-in-a-video-game/assets/146886714/e51ec466-ea15-4d68-a83b-0b733fb90050)
 
