@@ -3,4 +3,5 @@ Under your management, your company thrives. You become the first trillionaire a
 
 [Try other lives](../home.md)
 
-![image](https://github.com/keithh9704/sep10-cyoa-stuck-in-a-video-game/assets/146886714/2ae81f8b-d1d0-4714-a3b3-6436ce3f8d9c)
+![image](https://github.com/keithh9704/sep10-cyoa-stuck-in-a-video-game/assets/146886714/fa7f9c65-41e0-4126-940c-fff895129362)
+
